@@ -22,7 +22,7 @@ server.listen(8080,()=>{
 });
 
 
-const MONGO_URL = "mongodb+srv://harshvardhan23007:1b9xPLs1lJaLHlbp@cluster0.xcfexzx.mongodb.net/?retryWrites=true&w=majority"
+const MONGO_URL = "mongodb+srv://harshvardhan23007:3gtQgfiUUd1z0fiQ@cluster0.xgklla1.mongodb.net/?retryWrites=true&w=majority"
 
 
 mongoose.Promise = Promise;
